@@ -1,0 +1,83 @@
+﻿<Window x:Class="AbilityTool.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:viewModels="clr-namespace:AbilityTool.Client.ViewModels"
+        xmlns:views="clr-namespace:AbilityTool.Client.Ui"
+        mc:Ignorable="d"
+        Title="{Binding Main.WindowTitle, Mode=OneWay}"
+        DataContext="{Binding Source={StaticResource Locator}}"
+        WindowStartupLocation="CenterScreen"
+        WindowState="Normal" Height="221" Width="434" 
+        Icon="Images/AppIcon.jpg">
+    <TabControl>
+        <TabItem Header="search Abilities">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="5" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="5" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="5" />
+                </Grid.RowDefinitions>
+                <StackPanel Grid.Row="1" Orientation="Horizontal">
+                    <Button x:Name="searchAllBtn" Margin="5,0,5,0" Content="search all" Command="{Binding Main.searchAllAbilitiesCommand, Mode=OneWay}"/>
+                    <Button x:Name="searchNonNPC" Margin="5,0,5,0"  Content="search Player-Abs" Command="{Binding Main.searchPlayerAbilitiesCommand, Mode=OneWay}"/>
+                    <Button x:Name="searchNPC" Margin="5,0,5,0"  Content="search NPC-Abs" Command="{Binding Main.searchNpcAbilitiesCommand, Mode=OneWay}"/>
+                </StackPanel>
+                <StackPanel Grid.Row="3" Orientation="Horizontal">
+                    <Button x:Name="searchByIdBtn" Margin="5,0,5,0"  Content="search by Entry" Command="{Binding Main.searchAbilityByEntryCommand, Mode=OneWay}"/>
+                    <TextBox x:Name="entryInput" Margin="5,0,5,0"  MinWidth="120" Text="{Binding Main.Entry, UpdateSourceTrigger=PropertyChanged}"/>
+                </StackPanel>
+            </Grid>
+        </TabItem>
+        <TabItem Header="update Abilities">
+            <DockPanel>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="5" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="5" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="5" />
+                    </Grid.RowDefinitions>
+                    <StackPanel Grid.Row="1" Orientation="Horizontal">
+                        <Label >Choose a Table where you want to update an existing ability:</Label>
+                        <ComboBox ItemsSource="{Binding Main.tableNames}" 
+                              SelectedItem="{Binding Main.SelectedTableToUpdate}" HorizontalAlignment="Left"/>
+                    </StackPanel>
+                    <StackPanel Grid.Row="3" Orientation="Horizontal">
+                        <TextBox x:Name="entryInput2" Margin="5,0,5,0"  MinWidth="120" Text="{Binding Main.Entry, UpdateSourceTrigger=PropertyChanged}"/>
+                        <Button x:Name="searchByIdBtn2" Margin="5,0,5,0"  Content="search table by Entry" Command="{Binding Main.openUpdateAbsCommand, Mode=OneWay}"/>
+                    </StackPanel>
+                </Grid>
+            </DockPanel>
+        </TabItem>
+        <TabItem Header="insert Ability">
+            <DockPanel>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="5" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="5" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="5" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="5" />
+                    </Grid.RowDefinitions>
+                    <StackPanel Grid.Row="1" Orientation="Horizontal">
+                    <Label >Choose a Table where you want to add new ability stuff:</Label>
+                    </StackPanel>
+                    <StackPanel Grid.Row="3" Orientation="Horizontal">
+                    <ComboBox ItemsSource="{Binding Main.tableNames}" 
+                              SelectedItem="{Binding Main.SelectedTableToInsert}" HorizontalAlignment="Left"/>
+                    </StackPanel>
+                    <StackPanel Grid.Row="5" Orientation="Horizontal" MinHeight="25">
+                        <Button x:Name="startInsert" Content="Start Creation" Command="{Binding Main.openInsertAbsCommand, Mode=OneWay}"/>
+                    </StackPanel>
+                </Grid>
+            </DockPanel>
+        </TabItem>
+    </TabControl>
+</Window>
