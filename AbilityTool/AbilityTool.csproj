@@ -51,13 +51,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="apoc-api.common, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Debug\apoc-api.common.dll</HintPath>
+    <Reference Include="apoc-api.common">
+      <HintPath>..\..\Новая папка\Leos-AbilityTool-master\AbilityTool\apoc-api.common.dll</HintPath>
     </Reference>
     <Reference Include="apoc-api.security, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Debug\apoc-api.security.dll</HintPath>
+      <HintPath>..\..\Новая папка\Leos-AbilityTool-master\AbilityTool\apoc-api.security.dll</HintPath>
     </Reference>
     <Reference Include="BouncyCastle.Crypto, Version=1.8.5.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
       <HintPath>..\packages\BouncyCastle.1.8.5\lib\BouncyCastle.Crypto.dll</HintPath>
