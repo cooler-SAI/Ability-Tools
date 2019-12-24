@@ -52,11 +52,11 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="apoc-api.common">
-      <HintPath>..\..\Новая папка\Leos-AbilityTool-master\AbilityTool\apoc-api.common.dll</HintPath>
+      <HintPath>.\apoc-api.common.dll</HintPath>
     </Reference>
     <Reference Include="apoc-api.security, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\Новая папка\Leos-AbilityTool-master\AbilityTool\apoc-api.security.dll</HintPath>
+      <HintPath>.\apoc-api.security.dll</HintPath>
     </Reference>
     <Reference Include="BouncyCastle.Crypto, Version=1.8.5.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
       <HintPath>..\packages\BouncyCastle.1.8.5\lib\BouncyCastle.Crypto.dll</HintPath>

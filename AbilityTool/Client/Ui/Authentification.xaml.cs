@@ -31,7 +31,7 @@ namespace AbilityTool
                 return;
             }
 
-            Authenticator authenticationEngine = new Authenticator
+            Authenticator authenticationEngine = new Authenticator (Logger)
             {
                 BaseUrl = baseUrl,
                 AuthenticationPath = authPath,

@@ -1,0 +1,419 @@
+2019-12-24 17:27:57.0792 DEBUG Authenticator.CanConnect :: Attempting to connect to Authenticator
+2019-12-24 17:29:46.7980 DEBUG Authenticator.CanConnect :: Attempting to connect to Authenticator
+2019-12-24 17:30:14.2263 DEBUG Authenticator.CanConnect :: Attempting to connect to Authenticator
+2019-12-24 18:15:03.7930 DEBUG Authenticator.CanConnect :: Attempting to connect to Authenticator
+2019-12-24 18:15:04.0467 DEBUG HeartbeatController.GetAll :: + 127.0.0.1
+2019-12-24 18:15:04.1304 DEBUG Authenticator.CanConnect :: CanConnectStatus = Success. true
+2019-12-24 18:15:04.1304 INFO Authentification.connect :: Trying to connect to http://127.0.0.1:5000/
+2019-12-24 18:15:04.1304 DEBUG Authenticator.Connect :: Starting Connection = ander ander
+2019-12-24 18:15:04.1304 DEBUG Authenticator.Connect :: Http Headers Accept: application/json
+auth-key: 10528
+
+2019-12-24 18:15:04.1304 DEBUG Authenticator.Connect :: Auth request : api/Authentication?userName =ander&encryptedToken =Tkt4dnl4ZE53SDBSU28wNmp6Z2xaaGUxU3hTeEMzTGdCc2k5VmJTZ0UvOD0=
+2019-12-24 18:15:04.1873 DEBUG Authenticator.GetAuthentication :: Non success status code : NotFound 
+2019-12-24 18:15:04.1883 DEBUG Authenticator.Connect :: Auth response : 
+2019-12-24 18:15:04.1883 DEBUG Authenticator.Connect :: Empty Response
+2019-12-24 18:15:04.1883 INFO Authentification.connect :: Auth Token is empty. Username/password is invalid and client is not authorized!
+2019-12-24 18:15:30.9168 DEBUG Authenticator.CanConnect :: Attempting to connect to Authenticator
+2019-12-24 18:15:31.1581 DEBUG HeartbeatController.GetAll :: + 127.0.0.1
+2019-12-24 18:15:31.2349 DEBUG Authenticator.CanConnect :: CanConnectStatus = Success. true
+2019-12-24 18:15:31.2349 INFO Authentification.connect :: Trying to connect to http://127.0.0.1:5000/
+2019-12-24 18:15:31.2369 DEBUG Authenticator.Connect :: Starting Connection = root ascent
+2019-12-24 18:15:31.2369 DEBUG Authenticator.Connect :: Http Headers Accept: application/json
+auth-key: 10717
+
+2019-12-24 18:15:31.2369 DEBUG Authenticator.Connect :: Auth request : api/Authentication?userName =root&encryptedToken =Tkt4dnl4ZE53SDFWK1NlSUNtYXhaVXNkdlh2NG9kYzhJbksxbTZxbDBIUT0=
+2019-12-24 18:15:31.2868 DEBUG Authenticator.GetAuthentication :: Non success status code : NotFound 
+2019-12-24 18:15:31.2868 DEBUG Authenticator.Connect :: Auth response : 
+2019-12-24 18:15:31.2868 DEBUG Authenticator.Connect :: Empty Response
+2019-12-24 18:15:31.2868 INFO Authentification.connect :: Auth Token is empty. Username/password is invalid and client is not authorized!
+2019-12-24 18:16:56.6050 DEBUG Authenticator.CanConnect :: Attempting to connect to Authenticator
+2019-12-24 18:16:56.8513 DEBUG HeartbeatController.GetAll :: + 127.0.0.1
+2019-12-24 18:16:56.9331 DEBUG Authenticator.CanConnect :: CanConnectStatus = Success. true
+2019-12-24 18:16:56.9331 INFO Authentification.connect :: Trying to connect to http://127.0.0.1:5000/
+2019-12-24 18:16:56.9331 DEBUG Authenticator.Connect :: Starting Connection = ander ander
+2019-12-24 18:16:56.9331 DEBUG Authenticator.Connect :: Http Headers Accept: application/json
+auth-key: 11592
+
+2019-12-24 18:16:56.9331 DEBUG Authenticator.Connect :: Auth request : api/Authentication?userName =ander&encryptedToken =Tkt4dnl4ZE53SDNobXk4R0kyZnFBQUZ6VDZ5VHYxcjJCc2k5VmJTZ0UvOD0=
+2019-12-24 18:16:56.9899 DEBUG Authenticator.GetAuthentication :: Non success status code : NotFound 
+2019-12-24 18:16:56.9899 DEBUG Authenticator.Connect :: Auth response : 
+2019-12-24 18:16:56.9899 DEBUG Authenticator.Connect :: Empty Response
+2019-12-24 18:16:56.9899 INFO Authentification.connect :: Auth Token is empty. Username/password is invalid and client is not authorized!
+2019-12-24 18:17:05.1165 DEBUG Authenticator.CanConnect :: Attempting to connect to Authenticator
+2019-12-24 18:17:05.1165 DEBUG HeartbeatController.GetAll :: + 127.0.0.1
+2019-12-24 18:17:05.1165 DEBUG Authenticator.CanConnect :: CanConnectStatus = Success. true
+2019-12-24 18:17:05.1165 INFO Authentification.connect :: Trying to connect to http://127.0.0.1:5000/
+2019-12-24 18:17:05.1265 DEBUG Authenticator.Connect :: Starting Connection = admin admin
+2019-12-24 18:17:05.1265 DEBUG Authenticator.Connect :: Http Headers Accept: application/json
+auth-key: 11935
+
+2019-12-24 18:17:05.1265 DEBUG Authenticator.Connect :: Auth request : api/Authentication?userName =admin&encryptedToken =Tkt4dnl4ZE53SDBjd0NxT1M3MUFqS29VWGszdGNGWGVVVG9sbmo3aVhoZz0=
+2019-12-24 18:17:05.1265 DEBUG Authenticator.GetAuthentication :: Non success status code : NotFound 
+2019-12-24 18:17:05.1265 DEBUG Authenticator.Connect :: Auth response : 
+2019-12-24 18:17:05.1265 DEBUG Authenticator.Connect :: Empty Response
+2019-12-24 18:17:05.1265 INFO Authentification.connect :: Auth Token is empty. Username/password is invalid and client is not authorized!
+2019-12-24 18:17:06.2737 DEBUG Authenticator.CanConnect :: Attempting to connect to Authenticator
+2019-12-24 18:17:06.2737 DEBUG HeartbeatController.GetAll :: + 127.0.0.1
+2019-12-24 18:17:06.2737 DEBUG Authenticator.CanConnect :: CanConnectStatus = Success. true
+2019-12-24 18:17:06.2737 INFO Authentification.connect :: Trying to connect to http://127.0.0.1:5000/
+2019-12-24 18:17:06.2737 DEBUG Authenticator.Connect :: Starting Connection = admin admin
+2019-12-24 18:17:06.2737 DEBUG Authenticator.Connect :: Http Headers Accept: application/json
+auth-key: 11942
+
+2019-12-24 18:17:06.2737 DEBUG Authenticator.Connect :: Auth request : api/Authentication?userName =admin&encryptedToken =Tkt4dnl4ZE53SDFSeTF0bnoxWFo1Wm5jOUY1bmJ0VCtVVG9sbmo3aVhoZz0=
+2019-12-24 18:17:06.2847 DEBUG Authenticator.GetAuthentication :: Non success status code : NotFound 
+2019-12-24 18:17:06.2847 DEBUG Authenticator.Connect :: Auth response : 
+2019-12-24 18:17:06.2847 DEBUG Authenticator.Connect :: Empty Response
+2019-12-24 18:17:06.2847 INFO Authentification.connect :: Auth Token is empty. Username/password is invalid and client is not authorized!
+2019-12-24 18:17:12.0383 DEBUG Authenticator.CanConnect :: Attempting to connect to Authenticator
+2019-12-24 18:17:12.0383 DEBUG HeartbeatController.GetAll :: + 127.0.0.1
+2019-12-24 18:17:12.0383 DEBUG Authenticator.CanConnect :: CanConnectStatus = Success. true
+2019-12-24 18:17:12.0383 INFO Authentification.connect :: Trying to connect to http://127.0.0.1:5000/
+2019-12-24 18:17:12.0383 DEBUG Authenticator.Connect :: Starting Connection = root admin
+2019-12-24 18:17:12.0383 DEBUG Authenticator.Connect :: Http Headers Accept: application/json
+auth-key: 11984
+
+2019-12-24 18:17:12.0383 DEBUG Authenticator.Connect :: Auth request : api/Authentication?userName =root&encryptedToken =Tkt4dnl4ZE53SDNuU0VQcUhqSHRqZi9GdDBOK1dFOHI2dEgzVXpqdGttYz0=
+2019-12-24 18:17:12.0494 DEBUG Authenticator.GetAuthentication :: Non success status code : NotFound 
+2019-12-24 18:17:12.0494 DEBUG Authenticator.Connect :: Auth response : 
+2019-12-24 18:17:12.0494 DEBUG Authenticator.Connect :: Empty Response
+2019-12-24 18:17:12.0494 INFO Authentification.connect :: Auth Token is empty. Username/password is invalid and client is not authorized!
+2019-12-24 18:17:53.5818 DEBUG Authenticator.CanConnect :: Attempting to connect to Authenticator
+2019-12-24 18:17:53.8412 DEBUG HeartbeatController.GetAll :: + ::1
+2019-12-24 18:17:53.9219 DEBUG Authenticator.CanConnect :: CanConnectStatus = Success. true
+2019-12-24 18:17:53.9219 INFO Authentification.connect :: Trying to connect to http://localhost:5000/
+2019-12-24 18:17:53.9229 DEBUG Authenticator.Connect :: Starting Connection = ander ander
+2019-12-24 18:17:53.9229 DEBUG Authenticator.Connect :: Http Headers Accept: application/json
+auth-key: 12271
+
+2019-12-24 18:17:53.9229 DEBUG Authenticator.Connect :: Auth request : api/Authentication?userName =ander&encryptedToken =Tkt4dnl4ZE53SDBaQWFoS1pkSXZuZHFGSVp4R3U5K2RCc2k5VmJTZ0UvOD0=
+2019-12-24 18:17:53.9768 DEBUG Authenticator.GetAuthentication :: Non success status code : NotFound 
+2019-12-24 18:17:53.9768 DEBUG Authenticator.Connect :: Auth response : 
+2019-12-24 18:17:53.9768 DEBUG Authenticator.Connect :: Empty Response
+2019-12-24 18:17:53.9768 INFO Authentification.connect :: Auth Token is empty. Username/password is invalid and client is not authorized!
+2019-12-24 18:18:04.3625 DEBUG Authenticator.CanConnect :: Attempting to connect to Authenticator
+2019-12-24 18:18:04.3625 DEBUG HeartbeatController.GetAll :: + ::1
+2019-12-24 18:18:04.3625 DEBUG Authenticator.CanConnect :: CanConnectStatus = Success. true
+2019-12-24 18:18:04.3625 INFO Authentification.connect :: Trying to connect to http://localhost:5000/
+2019-12-24 18:18:04.3625 DEBUG Authenticator.Connect :: Starting Connection = root waremu
+2019-12-24 18:18:04.3625 DEBUG Authenticator.Connect :: Http Headers Accept: application/json
+auth-key: 12628
+
+2019-12-24 18:18:04.3625 DEBUG Authenticator.Connect :: Auth request : api/Authentication?userName =root&encryptedToken =Tkt4dnl4ZE53SDF5Sm9DNmthNzJzVHV3YVR1WHc2YzF0SGdYOTBQYlpDMD0=
+2019-12-24 18:18:04.3814 DEBUG Authenticator.GetAuthentication :: Non success status code : NotFound 
+2019-12-24 18:18:04.3814 DEBUG Authenticator.Connect :: Auth response : 
+2019-12-24 18:18:04.3814 DEBUG Authenticator.Connect :: Empty Response
+2019-12-24 18:18:04.3814 INFO Authentification.connect :: Auth Token is empty. Username/password is invalid and client is not authorized!
+2019-12-24 18:18:08.7332 DEBUG Authenticator.CanConnect :: Attempting to connect to Authenticator
+2019-12-24 18:18:08.7332 DEBUG HeartbeatController.GetAll :: + ::1
+2019-12-24 18:18:08.7362 DEBUG Authenticator.CanConnect :: CanConnectStatus = Success. true
+2019-12-24 18:18:08.7362 INFO Authentification.connect :: Trying to connect to http://localhost:5000/
+2019-12-24 18:18:08.7362 DEBUG Authenticator.Connect :: Starting Connection = root waremu
+2019-12-24 18:18:08.7362 DEBUG Authenticator.Connect :: Http Headers Accept: application/json
+auth-key: 12656
+
+2019-12-24 18:18:08.7362 DEBUG Authenticator.Connect :: Auth request : api/Authentication?userName =root&encryptedToken =Tkt4dnl4ZE53SDJPTUE4anZCUU9iUVFuSlI0SzJmVCt0SGdYOTBQYlpDMD0=
+2019-12-24 18:18:08.7362 DEBUG Authenticator.GetAuthentication :: Non success status code : NotFound 
+2019-12-24 18:18:08.7362 DEBUG Authenticator.Connect :: Auth response : 
+2019-12-24 18:18:08.7362 DEBUG Authenticator.Connect :: Empty Response
+2019-12-24 18:18:08.7362 INFO Authentification.connect :: Auth Token is empty. Username/password is invalid and client is not authorized!
+2019-12-24 18:22:11.1766 DEBUG Authenticator.CanConnect :: Attempting to connect to Authenticator
+2019-12-24 18:22:11.4219 DEBUG HeartbeatController.GetAll :: + 127.0.0.1
+2019-12-24 18:22:11.4997 DEBUG Authenticator.CanConnect :: CanConnectStatus = Success. true
+2019-12-24 18:22:11.4997 INFO Authentification.connect :: Trying to connect to http://127.0.0.1:5002/
+2019-12-24 18:22:11.4997 DEBUG Authenticator.Connect :: Starting Connection = ander ander
+2019-12-24 18:22:11.5017 DEBUG Authenticator.Connect :: Http Headers Accept: application/json
+auth-key: 15477
+
+2019-12-24 18:22:11.5017 DEBUG Authenticator.Connect :: Auth request : api/Authentication?userName =ander&encryptedToken =Tkt4dnl4ZE53SDNRV1JlT0FQOVErZjlUb1ZBYTU3QWhCc2k5VmJTZ0UvOD0=
+2019-12-24 18:22:11.5516 DEBUG Authenticator.GetAuthentication :: Non success status code : NotFound 
+2019-12-24 18:22:11.5516 DEBUG Authenticator.Connect :: Auth response : 
+2019-12-24 18:22:11.5516 DEBUG Authenticator.Connect :: Empty Response
+2019-12-24 18:22:11.5516 INFO Authentification.connect :: Auth Token is empty. Username/password is invalid and client is not authorized!
+2019-12-24 18:22:31.9431 DEBUG Authenticator.CanConnect :: Attempting to connect to Authenticator
+2019-12-24 18:22:31.9431 DEBUG HeartbeatController.GetAll :: + 127.0.0.1
+2019-12-24 18:22:31.9431 DEBUG Authenticator.CanConnect :: CanConnectStatus = Success. true
+2019-12-24 18:22:31.9431 INFO Authentification.connect :: Trying to connect to http://127.0.0.1:5002/
+2019-12-24 18:22:31.9431 DEBUG Authenticator.Connect :: Starting Connection = warapoc warapoc
+2019-12-24 18:22:31.9431 DEBUG Authenticator.Connect :: Http Headers Accept: application/json
+auth-key: 15617
+
+2019-12-24 18:22:31.9431 DEBUG Authenticator.Connect :: Auth request : api/Authentication?userName =warapoc&encryptedToken =Tkt4dnl4ZE53SDN1NExnU1FQV1RJV2lTUTBveTgxTTIyWWxabkJ0SFdaSmk5WjZNSWwyOGhnPT0=
+2019-12-24 18:22:31.9431 DEBUG Authenticator.GetAuthentication :: Non success status code : NotFound 
+2019-12-24 18:22:31.9431 DEBUG Authenticator.Connect :: Auth response : 
+2019-12-24 18:22:31.9431 DEBUG Authenticator.Connect :: Empty Response
+2019-12-24 18:22:31.9431 INFO Authentification.connect :: Auth Token is empty. Username/password is invalid and client is not authorized!
+2019-12-24 18:22:39.7026 DEBUG Authenticator.CanConnect :: Attempting to connect to Authenticator
+2019-12-24 18:22:39.7026 DEBUG HeartbeatController.GetAll :: + 127.0.0.1
+2019-12-24 18:22:39.7026 DEBUG Authenticator.CanConnect :: CanConnectStatus = Success. true
+2019-12-24 18:22:39.7026 INFO Authentification.connect :: Trying to connect to http://127.0.0.1:5002/
+2019-12-24 18:22:39.7046 DEBUG Authenticator.Connect :: Starting Connection = admin admin
+2019-12-24 18:22:39.7046 DEBUG Authenticator.Connect :: Http Headers Accept: application/json
+auth-key: 15673
+
+2019-12-24 18:22:39.7046 DEBUG Authenticator.Connect :: Auth request : api/Authentication?userName =admin&encryptedToken =Tkt4dnl4ZE53SDFGak1FYjJDbjBqRW9kbkJDc21QQ01VVG9sbmo3aVhoZz0=
+2019-12-24 18:22:39.7046 DEBUG Authenticator.GetAuthentication :: Non success status code : NotFound 
+2019-12-24 18:22:39.7046 DEBUG Authenticator.Connect :: Auth response : 
+2019-12-24 18:22:39.7046 DEBUG Authenticator.Connect :: Empty Response
+2019-12-24 18:22:39.7046 INFO Authentification.connect :: Auth Token is empty. Username/password is invalid and client is not authorized!
+2019-12-24 18:22:47.4017 DEBUG Authenticator.CanConnect :: Attempting to connect to Authenticator
+2019-12-24 18:22:47.4017 DEBUG HeartbeatController.GetAll :: + 127.0.0.1
+2019-12-24 18:22:47.4017 DEBUG Authenticator.CanConnect :: CanConnectStatus = Success. true
+2019-12-24 18:22:47.4017 INFO Authentification.connect :: Trying to connect to http://127.0.0.1:5002/
+2019-12-24 18:22:47.4017 DEBUG Authenticator.Connect :: Starting Connection = root admin
+2019-12-24 18:22:47.4017 DEBUG Authenticator.Connect :: Http Headers Accept: application/json
+auth-key: 15729
+
+2019-12-24 18:22:47.4017 DEBUG Authenticator.Connect :: Auth request : api/Authentication?userName =root&encryptedToken =Tkt4dnl4ZE53SDFMalRBTnVtLzZSRG91N1FxTGgwTVI2dEgzVXpqdGttYz0=
+2019-12-24 18:22:47.4017 DEBUG Authenticator.GetAuthentication :: Non success status code : NotFound 
+2019-12-24 18:22:47.4017 DEBUG Authenticator.Connect :: Auth response : 
+2019-12-24 18:22:47.4017 DEBUG Authenticator.Connect :: Empty Response
+2019-12-24 18:22:47.4077 INFO Authentification.connect :: Auth Token is empty. Username/password is invalid and client is not authorized!
+2019-12-24 18:22:52.0587 DEBUG Authenticator.CanConnect :: Attempting to connect to Authenticator
+2019-12-24 18:22:52.0587 DEBUG HeartbeatController.GetAll :: + 127.0.0.1
+2019-12-24 18:22:52.0587 DEBUG Authenticator.CanConnect :: CanConnectStatus = Success. true
+2019-12-24 18:22:52.0587 INFO Authentification.connect :: Trying to connect to http://127.0.0.1:5002/
+2019-12-24 18:22:52.0587 DEBUG Authenticator.Connect :: Starting Connection = root waremu
+2019-12-24 18:22:52.0587 DEBUG Authenticator.Connect :: Http Headers Accept: application/json
+auth-key: 15764
+
+2019-12-24 18:22:52.0587 DEBUG Authenticator.Connect :: Auth request : api/Authentication?userName =root&encryptedToken =Tkt4dnl4ZE53SDFLU3ZoZkhGRGJDS2FWYWdIdGlqdUx0SGdYOTBQYlpDMD0=
+2019-12-24 18:22:52.0587 DEBUG Authenticator.GetAuthentication :: Non success status code : NotFound 
+2019-12-24 18:22:52.0587 DEBUG Authenticator.Connect :: Auth response : 
+2019-12-24 18:22:52.0587 DEBUG Authenticator.Connect :: Empty Response
+2019-12-24 18:22:52.0587 INFO Authentification.connect :: Auth Token is empty. Username/password is invalid and client is not authorized!
+2019-12-24 18:22:52.5803 DEBUG Authenticator.CanConnect :: Attempting to connect to Authenticator
+2019-12-24 18:22:52.5803 DEBUG HeartbeatController.GetAll :: + 127.0.0.1
+2019-12-24 18:22:52.5803 DEBUG Authenticator.CanConnect :: CanConnectStatus = Success. true
+2019-12-24 18:22:52.5803 INFO Authentification.connect :: Trying to connect to http://127.0.0.1:5002/
+2019-12-24 18:22:52.5803 DEBUG Authenticator.Connect :: Starting Connection = root waremu
+2019-12-24 18:22:52.5803 DEBUG Authenticator.Connect :: Http Headers Accept: application/json
+auth-key: 15764
+
+2019-12-24 18:22:52.5803 DEBUG Authenticator.Connect :: Auth request : api/Authentication?userName =root&encryptedToken =Tkt4dnl4ZE53SDFkNHAvYmhtci9PK2YvZU1tNlcrMzl0SGdYOTBQYlpDMD0=
+2019-12-24 18:22:52.5803 DEBUG Authenticator.GetAuthentication :: Non success status code : NotFound 
+2019-12-24 18:22:52.5803 DEBUG Authenticator.Connect :: Auth response : 
+2019-12-24 18:22:52.5803 DEBUG Authenticator.Connect :: Empty Response
+2019-12-24 18:22:52.5803 INFO Authentification.connect :: Auth Token is empty. Username/password is invalid and client is not authorized!
+2019-12-24 18:22:52.9338 DEBUG Authenticator.CanConnect :: Attempting to connect to Authenticator
+2019-12-24 18:22:52.9338 DEBUG HeartbeatController.GetAll :: + 127.0.0.1
+2019-12-24 18:22:52.9338 DEBUG Authenticator.CanConnect :: CanConnectStatus = Success. true
+2019-12-24 18:22:52.9338 INFO Authentification.connect :: Trying to connect to http://127.0.0.1:5002/
+2019-12-24 18:22:52.9338 DEBUG Authenticator.Connect :: Starting Connection = root waremu
+2019-12-24 18:22:52.9338 DEBUG Authenticator.Connect :: Http Headers Accept: application/json
+auth-key: 15764
+
+2019-12-24 18:22:52.9338 DEBUG Authenticator.Connect :: Auth request : api/Authentication?userName =root&encryptedToken =Tkt4dnl4ZE53SDNmaitXL1VLWTZBaE9hL2Z1aVNuNWZ0SGdYOTBQYlpDMD0=
+2019-12-24 18:22:52.9338 DEBUG Authenticator.GetAuthentication :: Non success status code : NotFound 
+2019-12-24 18:22:52.9338 DEBUG Authenticator.Connect :: Auth response : 
+2019-12-24 18:22:52.9338 DEBUG Authenticator.Connect :: Empty Response
+2019-12-24 18:22:52.9338 INFO Authentification.connect :: Auth Token is empty. Username/password is invalid and client is not authorized!
+2019-12-24 18:22:53.1446 DEBUG Authenticator.CanConnect :: Attempting to connect to Authenticator
+2019-12-24 18:22:53.1446 DEBUG HeartbeatController.GetAll :: + 127.0.0.1
+2019-12-24 18:22:53.1446 DEBUG Authenticator.CanConnect :: CanConnectStatus = Success. true
+2019-12-24 18:22:53.1446 INFO Authentification.connect :: Trying to connect to http://127.0.0.1:5002/
+2019-12-24 18:22:53.1446 DEBUG Authenticator.Connect :: Starting Connection = root waremu
+2019-12-24 18:22:53.1446 DEBUG Authenticator.Connect :: Http Headers Accept: application/json
+auth-key: 15771
+
+2019-12-24 18:22:53.1446 DEBUG Authenticator.Connect :: Auth request : api/Authentication?userName =root&encryptedToken =Tkt4dnl4ZE53SDE1Wno3Q3B3dDJxczRFVi9MOTlBRWp0SGdYOTBQYlpDMD0=
+2019-12-24 18:22:53.1446 DEBUG Authenticator.GetAuthentication :: Non success status code : NotFound 
+2019-12-24 18:22:53.1446 DEBUG Authenticator.Connect :: Auth response : 
+2019-12-24 18:22:53.1446 DEBUG Authenticator.Connect :: Empty Response
+2019-12-24 18:22:53.1446 INFO Authentification.connect :: Auth Token is empty. Username/password is invalid and client is not authorized!
+2019-12-24 18:22:53.3327 DEBUG Authenticator.CanConnect :: Attempting to connect to Authenticator
+2019-12-24 18:22:53.3327 DEBUG HeartbeatController.GetAll :: + 127.0.0.1
+2019-12-24 18:22:53.3327 DEBUG Authenticator.CanConnect :: CanConnectStatus = Success. true
+2019-12-24 18:22:53.3327 INFO Authentification.connect :: Trying to connect to http://127.0.0.1:5002/
+2019-12-24 18:22:53.3327 DEBUG Authenticator.Connect :: Starting Connection = root waremu
+2019-12-24 18:22:53.3327 DEBUG Authenticator.Connect :: Http Headers Accept: application/json
+auth-key: 15771
+
+2019-12-24 18:22:53.3327 DEBUG Authenticator.Connect :: Auth request : api/Authentication?userName =root&encryptedToken =Tkt4dnl4ZE53SDNaMUpFT3VHcGhQak5aZ2NVdjdJcEZ0SGdYOTBQYlpDMD0=
+2019-12-24 18:22:53.3327 DEBUG Authenticator.GetAuthentication :: Non success status code : NotFound 
+2019-12-24 18:22:53.3327 DEBUG Authenticator.Connect :: Auth response : 
+2019-12-24 18:22:53.3327 DEBUG Authenticator.Connect :: Empty Response
+2019-12-24 18:22:53.3327 INFO Authentification.connect :: Auth Token is empty. Username/password is invalid and client is not authorized!
+2019-12-24 18:22:53.5078 DEBUG Authenticator.CanConnect :: Attempting to connect to Authenticator
+2019-12-24 18:22:53.5078 DEBUG HeartbeatController.GetAll :: + 127.0.0.1
+2019-12-24 18:22:53.5078 DEBUG Authenticator.CanConnect :: CanConnectStatus = Success. true
+2019-12-24 18:22:53.5078 INFO Authentification.connect :: Trying to connect to http://127.0.0.1:5002/
+2019-12-24 18:22:53.5078 DEBUG Authenticator.Connect :: Starting Connection = root waremu
+2019-12-24 18:22:53.5078 DEBUG Authenticator.Connect :: Http Headers Accept: application/json
+auth-key: 15771
+
+2019-12-24 18:22:53.5078 DEBUG Authenticator.Connect :: Auth request : api/Authentication?userName =root&encryptedToken =Tkt4dnl4ZE53SDB4YlZtNjE4WVMvbHVjMlh0ODNOTHV0SGdYOTBQYlpDMD0=
+2019-12-24 18:22:53.5078 DEBUG Authenticator.GetAuthentication :: Non success status code : NotFound 
+2019-12-24 18:22:53.5078 DEBUG Authenticator.Connect :: Auth response : 
+2019-12-24 18:22:53.5078 DEBUG Authenticator.Connect :: Empty Response
+2019-12-24 18:22:53.5078 INFO Authentification.connect :: Auth Token is empty. Username/password is invalid and client is not authorized!
+2019-12-24 18:22:53.6626 DEBUG Authenticator.CanConnect :: Attempting to connect to Authenticator
+2019-12-24 18:22:53.6626 DEBUG HeartbeatController.GetAll :: + 127.0.0.1
+2019-12-24 18:22:53.6626 DEBUG Authenticator.CanConnect :: CanConnectStatus = Success. true
+2019-12-24 18:22:53.6626 INFO Authentification.connect :: Trying to connect to http://127.0.0.1:5002/
+2019-12-24 18:22:53.6626 DEBUG Authenticator.Connect :: Starting Connection = root waremu
+2019-12-24 18:22:53.6626 DEBUG Authenticator.Connect :: Http Headers Accept: application/json
+auth-key: 15771
+
+2019-12-24 18:22:53.6626 DEBUG Authenticator.Connect :: Auth request : api/Authentication?userName =root&encryptedToken =Tkt4dnl4ZE53SDFxRC9GcnVzS3BZek5aZ2NVdjdJcEZ0SGdYOTBQYlpDMD0=
+2019-12-24 18:22:53.6626 DEBUG Authenticator.GetAuthentication :: Non success status code : NotFound 
+2019-12-24 18:22:53.6626 DEBUG Authenticator.Connect :: Auth response : 
+2019-12-24 18:22:53.6626 DEBUG Authenticator.Connect :: Empty Response
+2019-12-24 18:22:53.6626 INFO Authentification.connect :: Auth Token is empty. Username/password is invalid and client is not authorized!
+2019-12-24 18:22:53.8481 DEBUG Authenticator.CanConnect :: Attempting to connect to Authenticator
+2019-12-24 18:22:53.8481 DEBUG HeartbeatController.GetAll :: + 127.0.0.1
+2019-12-24 18:22:53.8481 DEBUG Authenticator.CanConnect :: CanConnectStatus = Success. true
+2019-12-24 18:22:53.8481 INFO Authentification.connect :: Trying to connect to http://127.0.0.1:5002/
+2019-12-24 18:22:53.8481 DEBUG Authenticator.Connect :: Starting Connection = root waremu
+2019-12-24 18:22:53.8481 DEBUG Authenticator.Connect :: Http Headers Accept: application/json
+auth-key: 15771
+
+2019-12-24 18:22:53.8481 DEBUG Authenticator.Connect :: Auth request : api/Authentication?userName =root&encryptedToken =Tkt4dnl4ZE53SDMzZzFGa0hPUkVyS2FWYWdIdGlqdUx0SGdYOTBQYlpDMD0=
+2019-12-24 18:22:53.8481 DEBUG Authenticator.GetAuthentication :: Non success status code : NotFound 
+2019-12-24 18:22:53.8481 DEBUG Authenticator.Connect :: Auth response : 
+2019-12-24 18:22:53.8481 DEBUG Authenticator.Connect :: Empty Response
+2019-12-24 18:22:53.8481 INFO Authentification.connect :: Auth Token is empty. Username/password is invalid and client is not authorized!
+2019-12-24 18:22:54.0479 DEBUG Authenticator.CanConnect :: Attempting to connect to Authenticator
+2019-12-24 18:22:54.0479 DEBUG HeartbeatController.GetAll :: + 127.0.0.1
+2019-12-24 18:22:54.0479 DEBUG Authenticator.CanConnect :: CanConnectStatus = Success. true
+2019-12-24 18:22:54.0479 INFO Authentification.connect :: Trying to connect to http://127.0.0.1:5002/
+2019-12-24 18:22:54.0479 DEBUG Authenticator.Connect :: Starting Connection = root waremu
+2019-12-24 18:22:54.0479 DEBUG Authenticator.Connect :: Http Headers Accept: application/json
+auth-key: 15778
+
+2019-12-24 18:22:54.0479 DEBUG Authenticator.Connect :: Auth request : api/Authentication?userName =root&encryptedToken =Tkt4dnl4ZE53SDBhci9rSjV4QlFtbHVjMlh0ODNOTHV0SGdYOTBQYlpDMD0=
+2019-12-24 18:22:54.0479 DEBUG Authenticator.GetAuthentication :: Non success status code : NotFound 
+2019-12-24 18:22:54.0479 DEBUG Authenticator.Connect :: Auth response : 
+2019-12-24 18:22:54.0479 DEBUG Authenticator.Connect :: Empty Response
+2019-12-24 18:22:54.0479 INFO Authentification.connect :: Auth Token is empty. Username/password is invalid and client is not authorized!
+2019-12-24 18:22:54.2282 DEBUG Authenticator.CanConnect :: Attempting to connect to Authenticator
+2019-12-24 18:22:54.2282 DEBUG HeartbeatController.GetAll :: + 127.0.0.1
+2019-12-24 18:22:54.2282 DEBUG Authenticator.CanConnect :: CanConnectStatus = Success. true
+2019-12-24 18:22:54.2282 INFO Authentification.connect :: Trying to connect to http://127.0.0.1:5002/
+2019-12-24 18:22:54.2282 DEBUG Authenticator.Connect :: Starting Connection = root waremu
+2019-12-24 18:22:54.2282 DEBUG Authenticator.Connect :: Http Headers Accept: application/json
+auth-key: 15778
+
+2019-12-24 18:22:54.2282 DEBUG Authenticator.Connect :: Auth request : api/Authentication?userName =root&encryptedToken =Tkt4dnl4ZE53SDFpRFc2SWQ5TkFhNmFWYWdIdGlqdUx0SGdYOTBQYlpDMD0=
+2019-12-24 18:22:54.2282 DEBUG Authenticator.GetAuthentication :: Non success status code : NotFound 
+2019-12-24 18:22:54.2282 DEBUG Authenticator.Connect :: Auth response : 
+2019-12-24 18:22:54.2282 DEBUG Authenticator.Connect :: Empty Response
+2019-12-24 18:22:54.2282 INFO Authentification.connect :: Auth Token is empty. Username/password is invalid and client is not authorized!
+2019-12-24 18:22:54.4469 DEBUG Authenticator.CanConnect :: Attempting to connect to Authenticator
+2019-12-24 18:22:54.4469 DEBUG HeartbeatController.GetAll :: + 127.0.0.1
+2019-12-24 18:22:54.4469 DEBUG Authenticator.CanConnect :: CanConnectStatus = Success. true
+2019-12-24 18:22:54.4469 INFO Authentification.connect :: Trying to connect to http://127.0.0.1:5002/
+2019-12-24 18:22:54.4469 DEBUG Authenticator.Connect :: Starting Connection = root waremu
+2019-12-24 18:22:54.4469 DEBUG Authenticator.Connect :: Http Headers Accept: application/json
+auth-key: 15778
+
+2019-12-24 18:22:54.4469 DEBUG Authenticator.Connect :: Auth request : api/Authentication?userName =root&encryptedToken =Tkt4dnl4ZE53SDBRZU1tNTVXbWxYVHV3YVR1WHc2YzF0SGdYOTBQYlpDMD0=
+2019-12-24 18:22:54.4469 DEBUG Authenticator.GetAuthentication :: Non success status code : NotFound 
+2019-12-24 18:22:54.4469 DEBUG Authenticator.Connect :: Auth response : 
+2019-12-24 18:22:54.4469 DEBUG Authenticator.Connect :: Empty Response
+2019-12-24 18:22:54.4469 INFO Authentification.connect :: Auth Token is empty. Username/password is invalid and client is not authorized!
+2019-12-24 18:22:54.6437 DEBUG Authenticator.CanConnect :: Attempting to connect to Authenticator
+2019-12-24 18:22:54.6437 DEBUG HeartbeatController.GetAll :: + 127.0.0.1
+2019-12-24 18:22:54.6437 DEBUG Authenticator.CanConnect :: CanConnectStatus = Success. true
+2019-12-24 18:22:54.6437 INFO Authentification.connect :: Trying to connect to http://127.0.0.1:5002/
+2019-12-24 18:22:54.6437 DEBUG Authenticator.Connect :: Starting Connection = root waremu
+2019-12-24 18:22:54.6437 DEBUG Authenticator.Connect :: Http Headers Accept: application/json
+auth-key: 15778
+
+2019-12-24 18:22:54.6437 DEBUG Authenticator.Connect :: Auth request : api/Authentication?userName =root&encryptedToken =Tkt4dnl4ZE53SDJKY0k0NWZNTnZGaE9hL2Z1aVNuNWZ0SGdYOTBQYlpDMD0=
+2019-12-24 18:22:54.6437 DEBUG Authenticator.GetAuthentication :: Non success status code : NotFound 
+2019-12-24 18:22:54.6437 DEBUG Authenticator.Connect :: Auth response : 
+2019-12-24 18:22:54.6437 DEBUG Authenticator.Connect :: Empty Response
+2019-12-24 18:22:54.6437 INFO Authentification.connect :: Auth Token is empty. Username/password is invalid and client is not authorized!
+2019-12-24 18:29:07.8048 DEBUG Authenticator.CanConnect :: Attempting to connect to Authenticator
+2019-12-24 18:29:08.0484 DEBUG HeartbeatController.GetAll :: + ::1
+2019-12-24 18:29:08.1251 DEBUG Authenticator.CanConnect :: CanConnectStatus = Success. true
+2019-12-24 18:29:08.1261 INFO Authentification.connect :: Trying to connect to http://localhost:5002/
+2019-12-24 18:29:08.1261 DEBUG Authenticator.Connect :: Starting Connection = ander ander
+2019-12-24 18:29:08.1261 DEBUG Authenticator.Connect :: Http Headers Accept: application/json
+auth-key: 20356
+
+2019-12-24 18:29:08.1261 DEBUG Authenticator.Connect :: Auth request : api/Authentication?userName =ander&encryptedToken =Tkt4dnl4ZE53SDA5Ni92dXBDOEtPTGdJSmh6Yi9CVUNCc2k5VmJTZ0UvOD0=
+2019-12-24 18:29:08.1760 DEBUG Authenticator.GetAuthentication :: Non success status code : NotFound 
+2019-12-24 18:29:08.1760 DEBUG Authenticator.Connect :: Auth response : 
+2019-12-24 18:29:08.1760 DEBUG Authenticator.Connect :: Empty Response
+2019-12-24 18:29:08.1760 INFO Authentification.connect :: Auth Token is empty. Username/password is invalid and client is not authorized!
+2019-12-24 18:29:12.6219 DEBUG Authenticator.CanConnect :: Attempting to connect to Authenticator
+2019-12-24 18:29:12.6219 DEBUG HeartbeatController.GetAll :: + ::1
+2019-12-24 18:29:12.6219 DEBUG Authenticator.CanConnect :: CanConnectStatus = Success. true
+2019-12-24 18:29:12.6219 INFO Authentification.connect :: Trying to connect to http://localhost:5002/
+2019-12-24 18:29:12.6219 DEBUG Authenticator.Connect :: Starting Connection = ander ander
+2019-12-24 18:29:12.6219 DEBUG Authenticator.Connect :: Http Headers Accept: application/json
+auth-key: 20384
+
+2019-12-24 18:29:12.6219 DEBUG Authenticator.Connect :: Auth request : api/Authentication?userName =ander&encryptedToken =Tkt4dnl4ZE53SDJ1NThJbDhsTmhZUmUxU3hTeEMzTGdCc2k5VmJTZ0UvOD0=
+2019-12-24 18:29:12.6259 DEBUG Authenticator.GetAuthentication :: Non success status code : NotFound 
+2019-12-24 18:29:12.6259 DEBUG Authenticator.Connect :: Auth response : 
+2019-12-24 18:29:12.6259 DEBUG Authenticator.Connect :: Empty Response
+2019-12-24 18:29:12.6259 INFO Authentification.connect :: Auth Token is empty. Username/password is invalid and client is not authorized!
+2019-12-24 18:35:15.2752 DEBUG Authenticator.CanConnect :: Attempting to connect to Authenticator
+2019-12-24 18:35:15.2971 DEBUG HeartbeatController.GetAll :: + ::1
+2019-12-24 18:35:15.2971 DEBUG Authenticator.CanConnect :: CanConnectStatus = Success. true
+2019-12-24 18:35:15.2981 INFO Authentification.connect :: Trying to connect to http://localhost:5002/
+2019-12-24 18:35:15.2981 DEBUG Authenticator.Connect :: Starting Connection = ander ander
+2019-12-24 18:35:15.2981 DEBUG Authenticator.Connect :: Http Headers Accept: application/json
+auth-key: 24605
+
+2019-12-24 18:35:15.2981 DEBUG Authenticator.Connect :: Auth request : api/Authentication?userName =ander&encryptedToken =Tkt4dnl4ZE53SDJ3ZUNwV0RDZzZhN2dJSmh6Yi9CVUNCc2k5VmJTZ0UvOD0=
+2019-12-24 18:35:15.2981 DEBUG Authenticator.GetAuthentication :: Non success status code : NotFound 
+2019-12-24 18:35:15.2981 DEBUG Authenticator.Connect :: Auth response : 
+2019-12-24 18:35:15.2981 DEBUG Authenticator.Connect :: Empty Response
+2019-12-24 18:35:15.2981 INFO Authentification.connect :: Auth Token is empty. Username/password is invalid and client is not authorized!
+2019-12-24 18:36:08.0231 DEBUG Authenticator.CanConnect :: Attempting to connect to Authenticator
+2019-12-24 18:36:08.0231 DEBUG HeartbeatController.GetAll :: + ::1
+2019-12-24 18:36:08.0231 DEBUG Authenticator.CanConnect :: CanConnectStatus = Success. true
+2019-12-24 18:36:08.0231 INFO Authentification.connect :: Trying to connect to http://localhost:5002/
+2019-12-24 18:36:08.0231 DEBUG Authenticator.Connect :: Starting Connection = ander ander
+2019-12-24 18:36:08.0231 DEBUG Authenticator.Connect :: Http Headers Accept: application/json
+auth-key: 25256
+
+2019-12-24 18:36:08.0231 DEBUG Authenticator.Connect :: Auth request : api/Authentication?userName =ander&encryptedToken =Tkt4dnl4ZE53SDFKVjFqQk5GcXFKak1aVTV4N05pNHJCc2k5VmJTZ0UvOD0=
+2019-12-24 18:36:08.0321 DEBUG Authenticator.GetAuthentication :: Non success status code : NotFound 
+2019-12-24 18:36:08.0321 DEBUG Authenticator.Connect :: Auth response : 
+2019-12-24 18:36:08.0321 DEBUG Authenticator.Connect :: Empty Response
+2019-12-24 18:36:08.0321 INFO Authentification.connect :: Auth Token is empty. Username/password is invalid and client is not authorized!
+2019-12-24 18:36:08.5377 DEBUG Authenticator.CanConnect :: Attempting to connect to Authenticator
+2019-12-24 18:36:08.5377 DEBUG HeartbeatController.GetAll :: + ::1
+2019-12-24 18:36:08.5377 DEBUG Authenticator.CanConnect :: CanConnectStatus = Success. true
+2019-12-24 18:36:08.5377 INFO Authentification.connect :: Trying to connect to http://localhost:5002/
+2019-12-24 18:36:08.5377 DEBUG Authenticator.Connect :: Starting Connection = ander ander
+2019-12-24 18:36:08.5377 DEBUG Authenticator.Connect :: Http Headers Accept: application/json
+auth-key: 25256
+
+2019-12-24 18:36:08.5377 DEBUG Authenticator.Connect :: Auth request : api/Authentication?userName =ander&encryptedToken =Tkt4dnl4ZE53SDFhSlJTTXY0eUNpY25jSExzczdtTnFCc2k5VmJTZ0UvOD0=
+2019-12-24 18:36:08.5377 DEBUG Authenticator.GetAuthentication :: Non success status code : NotFound 
+2019-12-24 18:36:08.5377 DEBUG Authenticator.Connect :: Auth response : 
+2019-12-24 18:36:08.5377 DEBUG Authenticator.Connect :: Empty Response
+2019-12-24 18:36:08.5377 INFO Authentification.connect :: Auth Token is empty. Username/password is invalid and client is not authorized!
+2019-12-24 18:47:36.2984 DEBUG Authenticator.CanConnect :: Attempting to connect to Authenticator
+2019-12-24 18:47:36.5343 DEBUG HeartbeatController.GetAll :: + ::1
+2019-12-24 18:47:36.6091 DEBUG Authenticator.CanConnect :: CanConnectStatus = Success. true
+2019-12-24 18:47:36.6101 INFO Authentification.connect :: Trying to connect to http://localhost:5002/
+2019-12-24 18:47:36.6101 DEBUG Authenticator.Connect :: Starting Connection = wolfsiegegm br0nc086
+2019-12-24 18:47:36.6101 DEBUG Authenticator.Connect :: Http Headers Accept: application/json
+auth-key: 33152
+
+2019-12-24 18:47:36.6101 DEBUG Authenticator.Connect :: Auth request : api/Authentication?userName =wolfsiegegm&encryptedToken =Tkt4dnl4ZE53SDNvOXlseVF6eEk0M1pDTzBDc2MySkdoRXZVK0ZuSkN5SkJXeDdLYWRGQlJRPT0=
+2019-12-24 18:47:36.6560 DEBUG Authenticator.GetAuthentication :: Non success status code : NotFound 
+2019-12-24 18:47:36.6570 DEBUG Authenticator.Connect :: Auth response : 
+2019-12-24 18:47:36.6570 DEBUG Authenticator.Connect :: Empty Response
+2019-12-24 18:47:36.6570 INFO Authentification.connect :: Auth Token is empty. Username/password is invalid and client is not authorized!
+2019-12-24 18:48:05.6347 DEBUG Authenticator.CanConnect :: Attempting to connect to Authenticator
+2019-12-24 18:48:05.6347 DEBUG HeartbeatController.GetAll :: + ::1
+2019-12-24 18:48:05.6347 DEBUG Authenticator.CanConnect :: CanConnectStatus = Success. true
+2019-12-24 18:48:05.6347 INFO Authentification.connect :: Trying to connect to http://localhost:5002/
+2019-12-24 18:48:05.6347 DEBUG Authenticator.Connect :: Starting Connection = warlord1 123456
+2019-12-24 18:48:05.6347 DEBUG Authenticator.Connect :: Http Headers Accept: application/json
+auth-key: 33635
+
+2019-12-24 18:48:05.6347 DEBUG Authenticator.Connect :: Auth request : api/Authentication?userName =warlord1&encryptedToken =Tkt4dnl4ZE53SDEvUEhMT2hXc3FPYVQ4aWZOekZpblhPTy9GcHN0TVVYZDVqek8ySXlNQS9BPT0=
+2019-12-24 18:48:05.6487 DEBUG Authenticator.GetAuthentication :: Non success status code : NotFound 
+2019-12-24 18:48:05.6487 DEBUG Authenticator.Connect :: Auth response : 
+2019-12-24 18:48:05.6487 DEBUG Authenticator.Connect :: Empty Response
+2019-12-24 18:48:05.6487 INFO Authentification.connect :: Auth Token is empty. Username/password is invalid and client is not authorized!
